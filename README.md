@@ -1,1 +1,3 @@
-# library_management_system
+# Library Management System
+
+A simple library management system with rest api.
